@@ -18,10 +18,6 @@ Ele reúne em um só lugar:
     - Copiar a imagem tratada para o editor de cenários
   - **Histórico de arquivos gerados**, com download dos arquivos (.docx / .xlsx)
 
-É um projeto ideal para demonstrar habilidades de **testes de software, lógica, front-end, back-end e documentação de QA** em entrevistas e portfólio.
-
----
-
 ## 🎯 Objetivos do Projeto
 
 - Simular um fluxo real de **autenticação**:
